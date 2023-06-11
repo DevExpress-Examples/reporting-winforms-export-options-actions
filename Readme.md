@@ -9,11 +9,11 @@ This example shows how to specify export options for various export formats, and
 
 - The [DevExpress.XtraPrinting.ExportOptions](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.ExportOptions) stores the document export options for different export formats. 
 - The [DevExpress.PrintingSystemBase.AddCommandHandler](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraPrinting.PrintingSystemBase.AddCommandHandler(DevExpress.XtraPrinting.ICommandHandler)) method allows you to add a custom command.
-- The **DevExpress.XtraPrinting.VisualExportTool** class contains methods that work in the same manner as the export commands. 
+- The [DevExpress.XtraPrinting.VisualExportTool](https://docs.devexpress.com/WindowsForms/DevExpress.XtraPrinting.VisualExportTool) class contains methods that work in the same manner as the export commands. 
 
 ## Files to Review
 
-- [Form1.cs](CS\ExportOptionSample\Form1.cs) ([VB: Form1.vb](VB\ExportOptionSample\Form1.vb))
+- [Form1.cs](CS/ExportOptionSample/Form1.cs) ([VB: Form1.vb](VB/ExportOptionSample/Form1.vb))
 
 ## Documentation
 
